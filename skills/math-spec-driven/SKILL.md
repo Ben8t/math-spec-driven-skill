@@ -1,3 +1,10 @@
+---
+name: math-spec-driven
+description: Produces rigorous, unambiguous mathematical specifications using sets, functions, relations, invariants, and explicit edge-case handling. Use when requirements are ambiguous, systems have interacting constraints, or behavior/contracts must be precise and falsifiable.
+metadata:
+  version: "1.0.0"
+---
+
 # Math Spec-Driven Skill
 
 ## Purpose
